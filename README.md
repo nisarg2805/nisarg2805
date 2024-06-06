@@ -1,5 +1,3 @@
-follow @nisarg2805
-- 👋 Hi, I’m Nisarg Rajput
 - 🧑‍💻 Working on **Java Projects**
 - 👀 I’m interested in **AI/ML**
 - 🌱 I’m currently learning **AI/ML**
