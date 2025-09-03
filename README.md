@@ -49,8 +49,7 @@
 | Project | Stack | What it does |
 | --- | --- | --- |
 | **[Digital-Eye](https://github.com/nisarg2805/Digital-Eye)** | Java, Android, Firebase | Voice-assisted Android app to help visually-impaired users navigate. |
-| **[Infra-Lab](https://github.com/nisarg2805/infra-lab)** | Linux, Docker, Nginx | Dev container + CI workflow template for backend projects. |
-| **[PacketTracer-Playground](https://github.com/nisarg2805/packettracer-playground)** | Cisco PT, OSPF, VLAN, ACL | Lab files + notes for network design and troubleshooting. |
+
 
 ---
 
