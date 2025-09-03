@@ -36,7 +36,7 @@
 
 ### 🧰 Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,html,css,androidstudio,react,nodejs,express,mongodb,mysql,postgres,sqlite,graphql,flask,docker,linux,git,github,aws,bash,figma" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,html,css,androidstudio,react,nodejs,express,mongodb,mysql,postgres,sqlite,graphql,flask,docker,linux,git,github,aws,bash,figma,AI,ML" />
 </p>
 
 ---
