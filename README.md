@@ -36,14 +36,23 @@
 
 ### 🧰 Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,html,css,androidstudio,react,nodejs,express,mongodb,mysql,postgres,sqlite,graphql,flask,docker,linux,git,github,aws,bash,figma,AI,ML" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,html,css,androidstudio,react,nodejs,express,mongodb,mysql,postgres,sqlite,graphql,flask,docker,linux,git,github,aws,bash,figma" />
+
+  <!-- AI/ML Icons with background -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="40" style="background:#1e1e1e; padding:6px; border-radius:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" width="40" style="background:#1e1e1e; padding:6px; border-radius:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="40" style="background:#1e1e1e; padding:6px; border-radius:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="40" style="background:#1e1e1e; padding:6px; border-radius:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" width="40" style="background:#1e1e1e; padding:6px; border-radius:10px;" />
 </p>
+
+
+
 
 ---
 
 ### ⭐ Featured Projects
 > Quick highlights of things I’m proud of.  
-> *(Replace links/descriptions with your real repos.)*
 
 | Project | Stack | What it does |
 | --- | --- | --- |
