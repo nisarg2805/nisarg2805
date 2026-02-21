@@ -81,11 +81,12 @@
 ---
 
 ### ⭐ Featured Projects
-> Quick highlights of things I’m proud of.  
+> Selected projects demonstrating real-world problem solving, AI integration, and full-stack development.
 
-| Project | Stack | What it does |
+| Project | Tech Stack | Description |
 | --- | --- | --- |
-| **[Digital-Eye](https://github.com/nisarg2805/Digital-Eye)** | Java, Android, Firebase | Voice-assisted Android app to help visually-impaired users navigate. |
+| **[AI Market Dashboard](https://github.com/nisarg2805/ai-market-dashboard)** | Python, Streamlit, Pandas, Plotly, yFinance | AI-powered financial analysis dashboard supporting natural language commands, technical indicators (RSI, Moving Averages), correlation analysis, volatility metrics, watchlist management, and downloadable PDF reports. |
+| **[Digital-Eye](https://github.com/nisarg2805/Digital-Eye)** | Java, Android, Firebase | Voice-assisted Android application designed to help visually impaired users navigate and interact with their environment using speech input and audio feedback. |
 
 
 ---
