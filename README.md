@@ -20,7 +20,7 @@
 - 🧪 Currently learning **cloud, CI/CD, AI/ML**  
 - 🤝 Open to collaborate on **Java/Python** backends & **infra** projects   
 - 💬 Ask me about **Java, Python, SQL, Android, Windows Server/AD, Cisco basics,m AI/ML**  
-- 📫 How to reach me: **nisrajput@algomau.ca**  
+- 📫 How to reach me: **nisragrajput28@gmail.com**  
 
 ---
 
