@@ -19,7 +19,7 @@
 - 🧭 Interested in **Backend • Networking • DevOps • Android**  
 - 🧪 Currently learning **cloud, CI/CD, AI/ML**  
 - 🤝 Open to collaborate on **Java/Python** backends & **infra** projects   
-- 💬 Ask me about **Java, Python, SQL, Android, Windows Server/AD, Cisco basics,m AI/ML**  
+- 💬 Ask me about **Java, Python, SQL, Android, Windows Server/AD, Cisco basics, AI/ML**  
 - 📫 How to reach me: **nisragrajput28@gmail.com**  
 
 ---
